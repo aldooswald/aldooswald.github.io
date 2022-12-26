@@ -17,6 +17,10 @@ body {
   background-size: cover;
 }
 
+.porto{
+  overflow: hidden;
+}
+
 body::before {
   content: "";
   position: fixed;
